@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiTelemetria", "apiTelemetria\apiTelemetria.csproj", "{148EFAAF-DA35-4EB9-B7BE-10E7784ACDA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FncTelemetria", "FncTelemetria\FncTelemetria.csproj", "{BDB4C00C-0640-4650-B337-A64B57D7466F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{148EFAAF-DA35-4EB9-B7BE-10E7784ACDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{148EFAAF-DA35-4EB9-B7BE-10E7784ACDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{148EFAAF-DA35-4EB9-B7BE-10E7784ACDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB4C00C-0640-4650-B337-A64B57D7466F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB4C00C-0640-4650-B337-A64B57D7466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB4C00C-0640-4650-B337-A64B57D7466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB4C00C-0640-4650-B337-A64B57D7466F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
